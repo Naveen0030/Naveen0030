@@ -1,17 +1,20 @@
-# 👋 Hello, I'm C Naveen Kumar Raju
+# 👋 Hello, I'm Naveen
 
 <div align="center">
   
-  ![Typing SVG](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0AC20999&center=true&width=435&lines=Welcome+to+my+World)](https://git.io/typing-svg)
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
   🎓 Electrical Engineering @ IIT Bhubaneswar | 💻 MERN Stack Developer | 🚀 Tech Innovator
   
-  ![Portfolio](your-portfolio-link)
-  ![LinkedIn](https://linkedin.com/in/Naveen)
-  ![LeetCode](your-leetcode-profile)
-  ![CodeForces](your-codeforces-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Naveen)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+
+
   
 </div>
 
@@ -65,49 +68,6 @@ const naveen = {
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🏫 EIMS College Portal
-Full Stack Web Application | MERN Stack
-> A comprehensive academic management system with role-based access for students, faculty, and administrators
-
-🔹 Features: Student enrollment, course management, performance tracking, admin panel  
-🔹 Tech Stack: MongoDB, Express.js, React.js, Node.js  
-🔹 Highlights: Secure authentication, scalable architecture, seamless UX
-
----
-
-### 🖥 Mini C Compiler
-Compiler Development | Lex & Yacc
-> A complete lexer and parser implementation for mini C programming language
-
-🔹 Features: Token generation, syntax analysis, structured output  
-🔹 Tech Stack: Lex (Lexer), Yacc (Parser), C  
-🔹 Highlights: Compliance with defined syntax, efficient parsing
-
----
-
-### 🧠 ResNet Implementation
-Deep Learning | TensorFlow
-> Deep Residual Network implementation for CIFAR-10 image classification
-
-🔹 Features: ResNet vs Plain CNN comparison, error analysis  
-🔹 Tech Stack: Python, TensorFlow, Google Colab  
-🔹 Highlights: Vanishing gradient mitigation, performance optimization
-
----
-
-### 📝 Smart Notes App
-MERN Stack | Full Featured
-> A responsive notes management application with advanced features
-
-🔹 Features: Authentication, CRUD operations, pinning, search  
-🔹 Tech Stack: MERN Stack, TailwindCSS  
-🔹 Highlights: Real-time updates, mobile-responsive design
-
-</div>
 
 ## 📊 GitHub Analytics
 
