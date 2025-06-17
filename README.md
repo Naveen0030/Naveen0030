@@ -15,70 +15,82 @@
 
 
 
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
+
+
+<details>
+<summary>🧑‍💻 <h3>About Me</h3></summary>
+
+```js
+  //  ~ naveen@iitbbs:~$ whoami
+
+  const naveen = {
+    name: "C Naveen Kumar Raju",
+    location: "IIT Bhubaneswar, India",
+    education: {
+      degree: "B.Tech",
+      branch: "Electrical Engineering",
+      cgpa: "8.29 / 10"
+    },
+    currentFocus: "Full Stack Web Development",
+    funFact: "Scored 100% in 10th grade! 📚",
+  
+    workingOn: "Building scalable web applications",
+    learning: [
+      "System Design",
+      "Cloud Technologies",
+      "Advanced React Patterns"
+    ],
+    lookingFor: "Exciting internship opportunities in tech",
+  
+    askMeAbout: [
+      "MERN Stack",
+      "Data Structures & Algorithms",
+      "Web Development",
+      "Problem Solving"
+    ]
+  };
+
+```
+</details>
 
 ---
 
-## 🔥 About Me
+### 🛠 Tech Arsenal
 
-const naveen = {
-    location: "IIT Bhubaneswar, India",
-    education: "B.Tech Electrical Engineering",
-    cgpa: "8.29/10",
-    currentFocus: "Full Stack Web Development",
-    funFact: "I achieved 100% in my 10th grade! 📚",
-    
-    workingOn: "Building scalable web applications",
-    learning: "Advanced System Design & Cloud Technologies",
-    lookingFor: "Exciting internship opportunities in tech",
-    
-    askMeAbout: ["MERN Stack", "Data Structures", "Web Development", "Problem Solving"]
-};
+#### 💻 Programming Languages  
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
+#### 🌐 Web Technologies  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
-## 🛠 Tech Arsenal
+#### 🔧 Tools & Platforms  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](#)
 
-<div align="center">
-
-### 💻 Programming Languages
-!C++
-!Python
-!JavaScript
-!SQL
-
-### 🌐 Web Technologies
-!HTML5
-!CSS3
-!React
-!NodeJS
-!Express.js
-!MongoDB
-!TailwindCSS
-!Bootstrap
-
-### 🔧 Tools & Platforms
-!Git
-!GitHub
-!Visual Studio Code
-!PyCharm
-!Postman
-!Netlify
-!Google Colab
-
-</div>
-
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen0030&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ## 🏆 Achievements & Recognition
 
@@ -95,42 +107,35 @@ const naveen = {
 
 </div>
 
-## 💼 Professional Experience
-
-### 🌐 Web Development Intern | NULLCLASS
-Oct 2024 - Nov 2024
-
-- 🎥 Implemented video upload feature for Stack Overflow clone using MERN stack
-- 🏆 Designed reward points system to boost user engagement
-- 📈 Enhanced platform functionality with gamification elements
-
 ## 🎯 Current Focus Areas
 
-learning_roadmap = {
-    "current": [
-        "Advanced React Patterns",
-        "System Design",
-        "Cloud Technologies (AWS/GCP)",
-        "Microservices Architecture"
-    ],
-    "next": [
-        "DevOps & CI/CD",
-        "TypeScript",
-        "GraphQL",
-        "Docker & Kubernetes"
-    ],
-    "goals": [
-        "Contributing to Open Source",
-        "Building scalable applications",
-        "Securing SDE internship",
-        "Enhancing problem-solving skills"
-    ]
-}
+```js
+const learning_roadmap = {
+  current: [
+    "⚛️ Advanced React Patterns",
+    "📐 System Design",
+    "☁️ Cloud Technologies (AWS/GCP)",
+    "🧩 Microservices Architecture"
+  ],
+  next: [
+    "🔧 DevOps & CI/CD",
+    "📝 TypeScript",
+    "🕸️ GraphQL",
+    "🐳 Docker & Kubernetes"
+  ],
+  goals: [
+    "🌍 Contributing to Open Source",
+    "🚀 Building scalable applications",
+    "👨‍💻 Securing SDE internship",
+    "🧠 Enhancing problem-solving skills"
+  ]
+};
 
+```
 
 ## 🤝 Let's Connect & Collaborate!
 
-<div align="center">
+<div align="">
   
   💬 Open to discussing:
   - Full Stack Development opportunities
@@ -138,16 +143,9 @@ learning_roadmap = {
   - Technical discussions and knowledge sharing
   - Internship opportunities
 
-  📧 Reach out: 22ee01031@iitbbs.ac.in  
-  📱 Connect: +91-7569648889
+  📧 Reach out: s.ac.in  
+  📱 Connect: +91-
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
   
-  ---
-  
-  ⚡ Fun Fact: When I'm not coding, you'll find me solving algorithmic puzzles or exploring the latest tech trends!
-  
-  !Profile Views
-  ![GitHub followers](https://github.com/your-username)
-
 </div>
