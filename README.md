@@ -33,14 +33,13 @@
       branch: "Electrical Engineering",
       cgpa: "8.29 / 10"
     },
-    currentFocus: "Full Stack Web Development",
-    funFact: "Scored 100% in 10th grade! 📚",
+    currentFocus: "AI/Ml & App Dev",
   
     workingOn: "Building scalable web applications",
     learning: [
       "System Design",
-      "Cloud Technologies",
-      "Advanced React Patterns"
+      "Object Detection in CNN",
+      "React Native"
     ],
     lookingFor: "Exciting internship opportunities in tech",
   
@@ -85,13 +84,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen0030&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-
 ## 🏆 Achievements & Recognition
 
 <div align="center">
@@ -107,15 +99,18 @@
 
 </div>
 
-## 🎯 Current Focus Areas
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<details>
+  <summary><h3>🎯 Current Focus Areas</h3></summary>
+  
 ```js
 const learning_roadmap = {
   current: [
     "⚛️ Advanced React Patterns",
-    "📐 System Design",
+    "📐 App Development",
     "☁️ Cloud Technologies (AWS/GCP)",
-    "🧩 Microservices Architecture"
+    "🧩 Deep Learning"
   ],
   next: [
     "🔧 DevOps & CI/CD",
@@ -132,10 +127,13 @@ const learning_roadmap = {
 };
 
 ```
+</details>
+
+
 
 ## 🤝 Let's Connect & Collaborate!
 
-<div align="">
+<div align="center">
   
   💬 Open to discussing:
   - Full Stack Development opportunities
@@ -143,8 +141,11 @@ const learning_roadmap = {
   - Technical discussions and knowledge sharing
   - Internship opportunities
 
-  📧 Reach out: s.ac.in  
-  📱 Connect: +91-
+ [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsanony000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Naveen)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
   
