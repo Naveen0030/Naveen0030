@@ -8,9 +8,9 @@
   
   🎓 Electrical Engineering @ IIT Bhubaneswar | 💻 MERN Stack Developer | 🚀 Tech Innovator
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Naveen](https://www.linkedin.com/in/naveen000/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen000/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/nave_en/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Naveen003)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 
