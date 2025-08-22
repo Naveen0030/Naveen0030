@@ -39,7 +39,8 @@
     learning: [
       "System Design",
       "Object Detection in CNN",
-      "React Native"
+      "Kotlin",
+      "Gen AI"
     ],
     lookingFor: "Exciting internship opportunities in tech",
   
@@ -95,7 +96,7 @@
 | 🏫 Current CGPA | 8.29/10 at IIT Bhubaneswar |
 | 💻 LeetCode Rating | Max Rating: 1724 |
 | 🥇 Contest Performance | Rank 2008 in Biweekly Contest 143 |
-| ⚡ CodeForces | Max Rating: 1104 (Newbie) |
+| ⚡ CodeForces | Max Rating: 1295 (Pupil) |
 
 </div>
 
@@ -141,12 +142,5 @@ const learning_roadmap = {
   - Technical discussions and knowledge sharing
   - Internship opportunities
 
- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsanony000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Naveen)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
   
 </div>
